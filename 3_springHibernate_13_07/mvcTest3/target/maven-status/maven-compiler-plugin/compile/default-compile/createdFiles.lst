@@ -1,0 +1,10 @@
+com\mvcTest3\config\WebAppConfig.class
+com\mvcTest3\entity\Student.class
+com\mvcTest3\config\Initializer.class
+com\mvcTest3\controller\StartController.class
+com\mvcTest3\UserServiceImpl\UserServiceImpl.class
+com\mvcTest3\service\UserService.class
+com\mvcTest3\dao\impl\UserDaoImpl.class
+com\mvcTest3\config\HibernateConfig.class
+com\mvcTest3\entity\Student$StudentBuilder.class
+com\mvcTest3\dao\UserDao.class

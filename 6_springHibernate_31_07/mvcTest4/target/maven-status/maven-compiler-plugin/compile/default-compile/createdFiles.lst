@@ -1,0 +1,13 @@
+com\mvcTest4\entity\StudentTask.class
+com\mvcTest4\config\HibernateConfig.class
+com\mvcTest4\config\WebAppConfig.class
+com\mvcTest4\controller\StartController.class
+com\mvcTest4\dao\impl\StudentDaoImpl.class
+com\mvcTest4\service\StudentService.class
+com\mvcTest4\entity\Student.class
+com\mvcTest4\entity\Student$StudentBuilder.class
+com\mvcTest4\config\Initializer.class
+com\mvcTest4\service\UserServiceImpl\StudentServiceImpl.class
+com\mvcTest4\config\InitDataToDb.class
+com\mvcTest4\dao\StudentDao.class
+com\mvcTest4\entity\StudentTask$StudentTaskBuilder.class

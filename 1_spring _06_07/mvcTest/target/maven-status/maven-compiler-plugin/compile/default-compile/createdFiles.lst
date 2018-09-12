@@ -1,0 +1,10 @@
+com\mvcTest\service\UserService.class
+com\mvcTest\config\ConnectConfig.class
+com\mvcTest\controller\StartController.class
+com\mvcTest\config\Initializer.class
+com\mvcTest\config\WebAppConfig.class
+com\mvcTest\entity\User.class
+com\mvcTest\dao\UserDao.class
+com\mvcTest\dao\impl\UserDaoImpl.class
+com\mvcTest\entity\User$UserBuilder.class
+com\mvcTest\service\userServiceImpl\UserServiceImpl.class

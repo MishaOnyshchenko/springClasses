@@ -1,0 +1,11 @@
+com\menu\service\impl\MenuServiceImpl.class
+com\menu\service\MenuService.class
+com\menu\config\Initializer.class
+com\menu\config\HibernateConfig.class
+com\menu\dao\impl\MenuDaoImpl.class
+com\menu\controller\StartController.class
+com\menu\entity\Menu.class
+com\menu\config\InitDataToDb.class
+com\menu\config\WebAppConfig.class
+com\menu\dao\MenuDao.class
+com\menu\entity\Menu$MenuBuilder.class

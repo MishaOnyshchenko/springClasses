@@ -1,0 +1,10 @@
+com\hibernateTest\dao\impl\UserDaoImpl.class
+com\hibernateTest\service\UserService.class
+com\hibernateTest\dao\UserDao.class
+com\hibernateTest\service\UserServiceImpl\UserServiceImpl.class
+com\hibernateTest\config\Initializer.class
+com\hibernateTest\controller\StartController.class
+com\hibernateTest\entity\User$UserBuilder.class
+com\hibernateTest\config\WebAppConfig.class
+com\hibernateTest\config\HibernateConfig.class
+com\hibernateTest\entity\User.class
